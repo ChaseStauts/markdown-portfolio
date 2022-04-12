@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+*List of favorite things
+  *Not coursework
+  *pizza
+  *video games
+  *peace and quiet
