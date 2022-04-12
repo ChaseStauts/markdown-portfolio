@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+My name is *chase stauts*, I'm a senior at **Boise State University** with an emphasis in **Cybersecurity**. My main programming languages are: _c, java, mySQl, and kotlin_.
